@@ -2,7 +2,7 @@
 \title{msImpute News}
 \encoding{UTF-8}
 
-\section{Version 1.7.0}{\itemize{
+\section{Version 1.7.1}{\itemize{
     \item add width and shift params of the gaussian distribution in the down-shift mode of \code{msImpute} to provide more control over the shape of the distribution when observed peptides have high average expression and missing is group-specific.
 
 }}
